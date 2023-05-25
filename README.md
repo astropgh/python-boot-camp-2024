@@ -6,6 +6,8 @@
 
 **2023**: [GitHub](https://github.com/astropgh/python-boot-camp-2023) / [website](https://astropgh.github.io/python-boot-camp-2023/)
 
+**2024**: [GitHub](https://github.com/astropgh/python-boot-camp-2024) / [website](https://astropgh.github.io/python-boot-camp-2024/)
+
 Welcome to the 2024 AstroPGH Python Boot Camp for summer undergraduate students and early PhD students new to Python.  This 3 day program is designed to help you learn the basics of using Python for astrophysics and physics research.
 
 
