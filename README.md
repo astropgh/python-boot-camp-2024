@@ -23,8 +23,9 @@ Next you need to start conda (which depends on your OS), so I suggest following 
 
 Then install the following packages by copy and pasting the following lines into in the Anaconda prompt (search for ''Anaconda Navigator'') or terminal:
 ```bash
-conda install numpy scipy astropy matplotlib jupyter ipython pandas
-conda install -c conda-forge jupyterlab ipympl
+conda install numpy scipy pandas matplotlib astropy jupyter ipython
+conda install -c conda-forge jupyterlab
+pip install ipympl
 ```
 
 If you have trouble with installing Jupyter Lab, see [Jupyter Lab installation guide](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html).
