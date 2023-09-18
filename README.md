@@ -1,8 +1,8 @@
-**2020**: [GitHub](https://github.com/astropgh/astropgh-boot-camp-2020) / [website](https://astropgh.github.io/astropgh-boot-camp-2020/)
+**2020**: [GitHub](https://github.com/astropgh/astropgh-boot-camp-2020) / [website](https://astropgh.github.io/astropgh-boot-camp-2020/) (inc., Astropy, Pandas, Altair, Git/Github, linear regression, resampling, and debugging)
 
-**2021**: [GitHub](https://github.com/astropgh/python-boot-camp-2021) / [website](https://astropgh.github.io/python-boot-camp-2021/)
+**2021**: [GitHub](https://github.com/astropgh/python-boot-camp-2021) / [website](https://astropgh.github.io/python-boot-camp-2021/) (inc., Astropy and Pandas)
 
-**2022**: [GitHub](https://github.com/astropgh/python-boot-camp-2022) / [website](https://astropgh.github.io/python-boot-camp-2022/)
+**2022**: [GitHub](https://github.com/astropgh/python-boot-camp-2022) / [website](https://astropgh.github.io/python-boot-camp-2022/) (inc., Astropy and Pandas)
 
 **2023**: [GitHub](https://github.com/astropgh/python-boot-camp-2023) / [website](https://astropgh.github.io/python-boot-camp-2023/)
 
