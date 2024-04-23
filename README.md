@@ -71,7 +71,7 @@ If you are having difficulties with installation, please do not hesitate to reac
 
 ### Schedule
 
-| Time (EDT) | Monday (5/22) | Tuesday (5/23) | Wednesday (5/24) |
+| Time (EDT) | Monday (5/20) | Tuesday (5/21) | Wednesday (5/22) |
 |:-----:|:-----:|:-----:|:-----:|
 | 10:00-11:15 | Python Basics | Numpy 1a | Numpy 3a |
 | 11:45-1:00 | Data Structures | Numpy 1b | Numpy 3b |
