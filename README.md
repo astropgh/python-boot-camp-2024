@@ -14,16 +14,16 @@ Welcome to the 2024 AstroPGH Python Boot Camp for summer undergraduate students 
 ## Boot Camp
 ### Installation and Setup
 #### Python
-Please install Python 3 before the Boot Camp. I recommend using the [Anaconda](https://www.anaconda.com/products/individual) package manager **_for Python 3.10_**. Here are Anaconda installation guides:
+Please install Python 3 before the Boot Camp. I recommend using the [Anaconda](https://www.anaconda.com/products/individual) package manager **_for Python 3.12_**. Here are Anaconda installation guides:
 - [Windows](https://conda.io/projects/conda/en/stable/user-guide/install/windows.html)
 - [macOS](https://conda.io/projects/conda/en/stable/user-guide/install/macos.html)
 - [linux](https://conda.io/projects/conda/en/stable/user-guide/install/linux.html)
 
 
-Next you need to start conda (which depends on your OS), so I suggest following this guide:[How to start Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html#starting-conda)
+Next you need to start conda (which depends on your OS), so I suggest following this guide: [How to start Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html#starting-conda)
 
 
-Then install the following packages by copy and pasting the following lines into in the Anaconda prompt (search for ''Anaconda Navigator'') or terminal:
+Then install the following packages by copy and pasting the following lines into the Anaconda prompt (search for ''Anaconda Navigator'') or terminal:
 ```bash
 conda install numpy scipy pandas matplotlib astropy jupyter ipython
 conda install -c conda-forge jupyterlab
