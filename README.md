@@ -56,18 +56,17 @@ If you are having difficulties with installation, please do not hesitate to reac
 
 ### Instructors
 - [Brett Andrews](https://bretthandrews.github.io/): Organizer
-- [Yasha Kaushal](https://yashakaushal.github.io/): Python Basics
-- [Bob Caddy](https://robertcaddy.com/): Data Structures
-- [Marcell Howard](https://marcellhoward.github.io/): Functions and Modules
-- [Lina Florez](https://linaflorez.github.io/): Matplotlib
-- [Yoki Salcedo](https://yoquelbinsalcedo.github.io/): Numpy 1a
-- [Alan Pearl](https://alanpearl.github.io/): Numpy 1b
-- [Travis Court](https://courtt.github.io/): Numpy 2a
+- [Helena Richie](https://helenarichie.github.io/): Python Basics
+- [Morgana Iacocca](https://morganafayeiacocca.github.io/): Data Structures, Functions and Modules
+- [Travis Court](https://courtt.github.io/): Matplotlib
+- Julissa Sarmiento: Numpy 1a
+- Finian Ashmead: Numpy 1b
+- [Ashod Khederlarian](https://ashodkh.github.io/): Numpy 2a
 - [Sedona Price](https://sedonaprice.github.io/): Numpy 2b
-- [Emily Biermann](https://embiermann.github.io/): Numpy 3a
+- Cullen Abelson: Numpy 3a
 - [Collin McLeod](https://collinmcleod.github.io/): Numpy 3b
-- [Helena Richie](https://helenarichie.github.io/): Numpy 4a
-- [David Setton](https://davidjsetton.github.io/): Numpy 4b
+- Chris Hernandez: Numpy 4a
+- [Yoki Salcedo](https://yoquelbinsalcedo.github.io/): Numpy 4b
 
 ### Schedule
 
