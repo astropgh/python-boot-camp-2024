@@ -55,10 +55,9 @@ import pandas
 If you are having difficulties with installation, please do not hesitate to reach out to Brett Andrews on Slack or via email.
 
 ### Instructors
-- [Brett Andrews](https://bretthandrews.github.io/): Organizer
 - [Helena Richie](https://helenarichie.github.io/): Python Basics
 - [Morgana Iacocca](https://morganafayeiacocca.github.io/): Data Structures, Functions and Modules
-- [Travis Court](https://courtt.github.io/): Matplotlib
+- [Brett Andrews](https://bretthandrews.github.io/): Organizer, Matplotlib
 - Julissa Sarmiento: Numpy 1a
 - Finian Ashmead: Numpy 1b
 - [Ashod Khederlarian](https://ashodkh.github.io/): Numpy 2a
