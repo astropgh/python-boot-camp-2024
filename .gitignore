@@ -64,3 +64,9 @@ notebooks/03-NumpyBasics/data/img/ifu_pseudoslit_v*.png
 
 # ipynb checkpoints
 .ipynb_checkpoints
+
+# Files saved as part of numpy basics:
+notebooks/03-NumpyBasics/array_1.npy
+notebooks/03-NumpyBasics/my_array.npy
+notebooks/03-NumpyBasics/solutions/array_1.npy
+notebooks/03-NumpyBasics/solutions/my_array.npy
